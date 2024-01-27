@@ -1,0 +1,7 @@
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe.config
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.exe
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\bin\Debug\Buoi1_NgonNguCSharp.pdb
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.AssemblyReference.cache
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.csproj.CoreCompileInputs.cache
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.exe
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi1_NgonNguCSharp\obj\Debug\Buoi1_NgonNguCSharp.pdb

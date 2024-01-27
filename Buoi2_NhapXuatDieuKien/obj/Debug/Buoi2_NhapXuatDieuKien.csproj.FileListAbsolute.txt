@@ -1,0 +1,7 @@
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\bin\Debug\Buoi2_NhapXuatDieuKien.exe.config
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\bin\Debug\Buoi2_NhapXuatDieuKien.exe
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\bin\Debug\Buoi2_NhapXuatDieuKien.pdb
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\obj\Debug\Buoi2_NhapXuatDieuKien.csproj.AssemblyReference.cache
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\obj\Debug\Buoi2_NhapXuatDieuKien.csproj.CoreCompileInputs.cache
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\obj\Debug\Buoi2_NhapXuatDieuKien.exe
+D:\CodeGym\GU101\Projects\Buoi1_NgonNguCSharp\Buoi2_NhapXuatDieuKien\obj\Debug\Buoi2_NhapXuatDieuKien.pdb
